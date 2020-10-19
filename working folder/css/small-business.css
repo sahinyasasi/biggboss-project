@@ -10,6 +10,7 @@ body {
 
 table,
 td,
-th {
-    border: 1px solid rgb(179, 144, 144)
+th,
+tr {
+    border: 1px solid palevioletred;
 }
