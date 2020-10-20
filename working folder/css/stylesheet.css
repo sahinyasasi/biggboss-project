@@ -19,8 +19,3 @@ tr {
     border: 2px solid black;
     border-style: dotted;
 }
-
-.carousel-control-next,
-.carousel-control-prev {
-    background-color: rgb(32, 29, 30);
-}
